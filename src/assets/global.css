@@ -1,0 +1,13 @@
+body{
+    user-select: none !important;
+    padding: 20px !important;
+    overflow:hidden !important;
+}
+
+html{
+    overflow-y: hidden;
+}
+
+*::-webkit-scrollbar{
+    width: 0;
+}
